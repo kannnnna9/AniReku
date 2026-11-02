@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths>
+    <!-- Only the updater's own download directory is exposed, never the whole external storage. -->
+    <external-files-path
+        name="updates"
+        path="Download/updates/" />
+</paths>
